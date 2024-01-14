@@ -2,3 +2,12 @@
   position:fixed; top:0px; left:0px; right:0px; position:fixed; top:0px; left:0px; right:0px; 
 }
 
+.row1{
+  display: flex; /* Flex'i tanımlarız */
+  flex-direction: row; /* Resimleri yan yana getirir */
+}
+
+.row2{
+  display: flex; /* Flex'i tanımlarız */
+  flex-direction: row; /* Resimleri yan yana getirir */
+}
